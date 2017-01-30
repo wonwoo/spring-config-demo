@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "name": "foo.name",
+      "type": "java.lang.String",
+      "description": "Description for foo.name.",
+      "defaultValue": "100"
+    }
+  ],
+  "hints": [
+    {
+      "name": "foo.name",
+      "values": [
+        {
+          "value": "100",
+          "description": "blabla 100"
+        },
+        {
+          "value": "200",
+          "description": "blabla 200"
+        }
+      ]
+    }
+  ]
+}

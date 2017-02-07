@@ -1,2 +1,5 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
   me.wonwoo.config.SpringAutoConfiguration
+
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+  me.wonwoo.config.InvalidFailureAnalyzer
